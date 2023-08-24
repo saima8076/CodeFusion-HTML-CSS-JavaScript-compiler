@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeFusion-compiler/static/css/main.5f663fbf.css",
+    "main.js": "/CodeFusion-compiler/static/js/main.0dea1e2b.js",
+    "static/js/787.ead95de1.chunk.js": "/CodeFusion-compiler/static/js/787.ead95de1.chunk.js",
+    "index.html": "/CodeFusion-compiler/index.html",
+    "main.5f663fbf.css.map": "/CodeFusion-compiler/static/css/main.5f663fbf.css.map",
+    "main.0dea1e2b.js.map": "/CodeFusion-compiler/static/js/main.0dea1e2b.js.map",
+    "787.ead95de1.chunk.js.map": "/CodeFusion-compiler/static/js/787.ead95de1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f663fbf.css",
+    "static/js/main.0dea1e2b.js"
+  ]
+}
